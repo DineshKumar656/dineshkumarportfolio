@@ -306,7 +306,7 @@ const Index = () => {
                     {/* Profile photo with improved positioning for face visibility */}
                     <Avatar className="w-72 h-72 relative z-10 transition-all duration-300 group-hover:scale-105">
                       <AvatarImage 
-                        src="https://i.postimg.cc/nV1bNLkM/IMG-20240924-WA0068.jpg" 
+                        src="https://i.postimg.cc/ydkbbV8L/340611df-121d-4a8b-941c-16d407ede5d5.png" 
                         alt="Dinesh Kumar S" 
                         className="object-cover rounded-full scale-110 translate-y-[-10px]"
                         style={{
