@@ -308,9 +308,9 @@ const Index = () => {
                       <AvatarImage 
                         src="https://i.postimg.cc/ydkbbV8L/340611df-121d-4a8b-941c-16d407ede5d5.png" 
                         alt="Dinesh Kumar S" 
-                        className="object-cover rounded-full scale-110 translate-y-[-10px]"
+                        className="object-cover rounded-full scale-[1.15] translate-y-[-6px]"
                         style={{
-                          objectPosition: '50% 35%',
+                          objectPosition: '50% 30%',
                           objectFit: 'cover'
                         }} 
                       />
