@@ -310,7 +310,7 @@ const Index = () => {
                         alt="Dinesh Kumar S" 
                         className="object-cover rounded-full scale-[1.12] translate-y-[4px]"
                         style={{
-                          objectPosition: '50% 23%',
+                          objectPosition: '50% 50%',
                           objectFit: 'cover'
                         }} 
                       />
